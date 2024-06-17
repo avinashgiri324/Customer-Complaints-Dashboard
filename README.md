@@ -2,7 +2,7 @@
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/53c40f7c-fec7-466a-8c8f-78a737ad07aa/ReportSection1d53c34588cce8e7b009?redirectedFromSignup=1&experience=power-bi
 
-## Problem Summary
+
 ## Introduction:
 
 This Power BI dashboard aims to provide comprehensive insights into customer complaints. It contains various visualizations that allow users to understand key metrics related to complaints, identify trends, and gain a deeper understanding of complaint types, products, channels, priorities, and customer satisfaction. The dashboard provides a holistic view of customer feedback, helping businesses make informed decisions to improve customer satisfaction.
